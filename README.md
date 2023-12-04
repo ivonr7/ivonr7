@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac von Riedemann</h1>
 <h3 align="center">A curious person interested in computer vision and real time systems</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
